@@ -6,3 +6,10 @@ Automata Finito
 - Gludher Quispe Cotacallapa
 - Edwin Fredy Chambi Mamani
 - Erwin Cruz Mamani
+
+Requerimientos:
+
+Arduino IDE 2
+Running Median 0.3.6
+AdaFruit Motor Shield Library V1 1.0.1
+Newping 1.9.4
